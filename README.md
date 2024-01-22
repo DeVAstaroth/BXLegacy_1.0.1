@@ -1,2 +1,3 @@
-# BXLegacy_1.0.1
-Base de Legacy actualizado y editado por DevAstaroth
+# **BXLegacy 1.1.0** *by DevAstaroth*
+
+Soy un programador en sus primeras etapas, apasionado y decidido. Mi búsqueda se centró en encontrar una base para FiveM en ESX, preferiblemente en español. Sin embargo, me encontré con obstáculos, ya que las bases disponibles eran o bien de pago o estaban desactualizadas. A pesar de estos desafíos, mi objetivo es mejorar la situación actual. Quiero contribuir a la creación de una comunidad más grande y actualizar la base para que sea de uso gratuito para todos. Mi visión es que la gente pueda crear servidores de FiveM bien construidos y divertidos, fomentando así un entorno de juego más inclusivo y emocionante. Creo firmemente que, con esfuerzo y dedicación, podemos hacer realidad esta visión. ¡Juntos, podemos hacer que FiveM sea aún mejor!
